@@ -1,0 +1,12 @@
+Scriptul necesita rularea acestiua prin comanda sudo ./proiectG.1029.sh.
+Dupa rulare, pe terminal va aparea textul:
+
+Scriptul realizeaza:
+1. Cere de la tastatura numele unui fisier si un sir. Sterge toate liniile date din acel fisier
+2. Descarca un link de la tastatura si verifica conexiunea la net
+3. Adauga un nou utilizator (se creaza automat un home si se cere schimbarea parolei)
+4. Sterge un utilizator si intreaba daca se doreste stergerea home-ului sau
+Introdu subpunctul ce doresti sa fie rulat.(1/2/3/4)
+
+Exemplu: Pentru a accesa subpunctul 1 vom introduce in terminal cifra 1 urmat de "enter"
+
